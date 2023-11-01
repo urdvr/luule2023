@@ -1,2 +1,3 @@
 # luule2023
-Mirjami luuleväljakutse
+Mirjami luuleväljakutse reeglid:
+![](assets/luulereeglid.png)
